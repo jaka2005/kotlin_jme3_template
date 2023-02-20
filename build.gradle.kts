@@ -5,7 +5,7 @@ plugins {
     application
 }
 
-group = "com.j2k.SimpleJME3"
+group = "site.j2k.SimpleJME3"
 version = "1.0"
 
 repositories {
